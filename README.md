@@ -1,5 +1,7 @@
 # 📚 Student Performance Predictor
 
+                                                                           [*****NOT FINISHED YET****]
+
 A machine learning application that predicts student academic performance using study habits, attendance, sleep patterns, assignment completion, and previous academic records.
 
 ---
